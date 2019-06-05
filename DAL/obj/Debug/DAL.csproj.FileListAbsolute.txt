@@ -1,0 +1,22 @@
+C:\AXN\Facturacion electrónica\GFE5\GFE\DAL\bin\Debug\DAL.dll
+C:\AXN\Facturacion electrónica\GFE5\GFE\DAL\bin\Debug\DAL.pdb
+C:\AXN\Facturacion electrónica\GFE5\GFE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\AXN\Facturacion electrónica\GFE5\GFE\DAL\obj\Debug\DAL.dll
+C:\AXN\Facturacion electrónica\GFE5\GFE\DAL\obj\Debug\DAL.pdb
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\DAL\bin\Debug\DAL.dll
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\DAL\bin\Debug\DAL.pdb
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\DAL\obj\Debug\DAL.dll
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\DAL\obj\Debug\DAL.pdb
+F:\Proyectos\FacturacionEletronica\Generar\DAL\bin\Debug\DAL.dll
+F:\Proyectos\FacturacionEletronica\Generar\DAL\bin\Debug\DAL.pdb
+F:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.dll
+F:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.pdb
+D:\Proyectos\FacturacionEletronica\Generar\DAL\bin\Debug\DAL.dll
+D:\Proyectos\FacturacionEletronica\Generar\DAL\bin\Debug\DAL.pdb
+D:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.dll
+D:\Proyectos\FacturacionEletronica\Generar\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,37 @@
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\bin\Debug\Generar.exe.config
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\bin\Debug\Generar.exe
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\bin\Debug\Generar.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.Form1.resources
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.Properties.Resources.resources
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.csproj.GenerateResource.Cache
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.exe
+c:\users\freddy\documents\visual studio 2017\Projects\Generar\Generar\obj\Debug\Generar.pdb
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\Generar\bin\Debug\DAL.dll
+C:\Users\Freddy\documents\visual studio 2017\Projects\Generar\Generar\bin\Debug\DAL.pdb
+F:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.exe.config
+F:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.exe
+F:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.pdb
+F:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\DAL.dll
+F:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\DAL.pdb
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csprojAssemblyReference.cache
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.Form1.resources
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.Properties.Resources.resources
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.GenerateResource.cache
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.CoreCompileInputs.cache
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.CopyComplete
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.exe
+F:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.pdb
+D:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.exe.config
+D:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.exe
+D:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\Generar.pdb
+D:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\DAL.dll
+D:\Proyectos\FacturacionEletronica\Generar\Generar\bin\Debug\DAL.pdb
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csprojAssemblyReference.cache
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.Form1.resources
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.Properties.Resources.resources
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.GenerateResource.cache
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.CoreCompileInputs.cache
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.csproj.CopyComplete
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.exe
+D:\Proyectos\FacturacionEletronica\Generar\Generar\obj\Debug\Generar.pdb
